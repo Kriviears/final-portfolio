@@ -39,8 +39,16 @@ function menuToggle(){
   });
 }
 
+function cta(){
+  $('.cta').on('click', function(event){
+    $('.current').removeClass('current');
+    $('.port').addClass('current');
+  })
+}
+
 $(function (){
   navigate();
   fillProjects();
   menuToggle();
+  cta();
 });
