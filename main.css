@@ -117,6 +117,14 @@ section {
 section:nth-child(even) {
     background-color: #16b1e0;
   }
+
+.scroll-section {
+    height: 100%;
+    overflow: scroll;
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
   
 section h1{
     text-align: center;
