@@ -18,9 +18,9 @@ const projects = [
     description: 'Simple html, css, and js, soon to be rewritten in react',
     pic: {
       src: 'thisSite.jpeg',
-      alt: 'Working progress'
+      alt: 'You\'re here'
     },
-    live: '',
-    git: '',
+    live: '#home',
+    git: 'https://github.com/Kriviears/final-portfolio',
   },
 ];

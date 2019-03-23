@@ -108,7 +108,7 @@ p {
 
 section {
     min-height: 100%;
-    padding: 2% 0;
+    padding: 2% 2%;
     background-color: #149fc9;
     text-align: center;
     overflow: hidden;
@@ -238,4 +238,5 @@ section h1{
     p {
         font-size: 1.5em;
     }
+
 }
