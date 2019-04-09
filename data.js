@@ -27,7 +27,7 @@ const projects = [
     name: 'Taste making app',
     description: 'asks what you like and uses the qloo api to make suggestions on what else you might like. Coded in html, css, and jquery',
     pic: {
-      src: 'images/tastemaker.jpeg',
+      src: 'images/tastemaker.JPG',
       alt: 'Tastemaker app'
     },
     live: 'https://kriviears.github.io/tastemaker-app/',
